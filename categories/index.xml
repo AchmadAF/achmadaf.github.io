@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on AAF</title>
-    <link>https://achmadaf.github.io/categories/</link>
+    <link>https://achmadaf.site/categories/</link>
     <description>Recent content in Categories on AAF</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://achmadaf.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://achmadaf.site/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

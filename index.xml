@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AAF</title>
-    <link>https://achmadaf.github.io/</link>
+    <link>https://achmadaf.site/</link>
     <description>Recent content on AAF</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 23 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://achmadaf.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://achmadaf.site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://achmadaf.github.io/about/</link>
+      <link>https://achmadaf.site/about/</link>
       <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://achmadaf.github.io/about/</guid>
+      <guid>https://achmadaf.site/about/</guid>
       <description>Hello !   Welcome to my site.  Siapa authornya? Authornya bisa diliat dari nama situsnya yaitu AAF. Nah nama AAF ini aku ambil dari inisial nama lengkap aku. Nama lengkapnya cari saja sendiri ya !!!. Atau bisa tanya langsung secara pribai dengan telepati.
 Kenapa membuat situs ini ? Awalnya aku hanya coba lama kelamaan aku ketagihan.  Aku buat situs ini sebenernya untuk membuat sebuah catatan agar setelah praktikum agar tidak cepat lupa.</description>
     </item>
