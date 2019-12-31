@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AAF</title>
-    <link>https://achmadaf.site/</link>
-    <description>Recent content on AAF</description>
+    <title>Blogs on AAF</title>
+    <link>https://achmadaf.site/blog/</link>
+    <description>Recent content in Blogs on AAF</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 31 Dec 2019 14:26:11 +0000</lastBuildDate>
     
-	<atom:link href="https://achmadaf.site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://achmadaf.site/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       <guid>https://achmadaf.site/blog/4dx/</guid>
       <description>Sudah sering kita membuat rencana atau target tapi hasil tidak sesuai target ataupun belum maksimal. Nah kali ini saya mau mengulas tentang 4DX (Discipline of Execution).
 Apa sih 4DX itu??? Bagi orang awam pasti bingung tentang 4DX ini, 4DX atau bisa disebut Discipline of Execution ialah sikap disipilin untuk melakukan sebuah eksekusi. Dalam eksekusi target kita sering terkena gangguan sehingga rencana yang sudah kita siapkan tidak sesuai target. Gangguan dalam 4DX biasa disebut dengan whirlwind (Puting Beliung).</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://achmadaf.site/about/</link>
-      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://achmadaf.site/about/</guid>
-      <description>Hello !   Welcome to my site.  Siapa authornya? Authornya bisa diliat dari nama situsnya yaitu AAF. Nah nama AAF ini aku ambil dari inisial nama lengkap aku. Nama lengkapnya cari saja sendiri ya !!!. Atau bisa tanya langsung secara pribai dengan telepati.
-Kenapa membuat situs ini ? Awalnya aku hanya coba lama kelamaan aku ketagihan.  Aku buat situs ini sebenernya untuk membuat sebuah catatan agar setelah praktikum agar tidak cepat lupa.</description>
     </item>
     
   </channel>
